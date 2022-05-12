@@ -1,2 +1,2 @@
 # alx-pre_course
-This repo is my first project README file built on Github during my ALX software
+I'm now a ALX Student, this is my first repository as a full-stack engineer
